@@ -3,7 +3,7 @@
 
 
 	<!-- 通过修改该属性设置仿真场景 -->
-    <arg name="world_name" value="$(find mrobot_gazebo)/worlds/playground.world"/> 
+    <arg name="world_name" value="$(find mrobot_gazebo)/worlds/cloister.world"/> 
     <arg name="paused" default="false"/> 
     <arg name="use_sim_time" default="true"/> 
     <arg name="gui" default="true"/> 
